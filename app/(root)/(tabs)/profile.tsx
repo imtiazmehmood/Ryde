@@ -3,7 +3,7 @@ import { View, Text } from "react-native";
 
 const Profile = () => {
   return (
-    <View className="flex-1">
+    <View className="flex-1 justify-center items-center">
       <Text>Profile</Text>
     </View>
   );
